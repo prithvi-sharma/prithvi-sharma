@@ -11,7 +11,7 @@
     <a href="mailto@prithvigirishsharma@gmail.com" alt="Email"><img src="https://image.flaticon.com/icons/svg/839/839887.svg" width=20px></a>
     <a href="<img src="tinyurl.com/prithviresume" alt="Resume Website"><img src="https://image.flaticon.com/icons/svg/975/975645.svg" width=20px></a><br> -->
     <a href="https://linkedin.com/in/prithvisharma/" alt="Linkedin"><img src="https://image.flaticon.com/icons/svg/1384/1384171.svg" width=30px>...</a>
-    <a href="mailto@prithvigirishsharma@gmail.com" alt="Email"><img src="https://image.flaticon.com/icons/svg/871/871975.svg" width=30px>...</a>
+    <a href="mailto@prithvigirishsharma@gmail.com" alt="Email"><img src="https://image.flaticon.com/icons/svg/871/871975.svg" width=35px>...</a>
     <a href="<img src="tinyurl.com/prithviresume" alt="Resume Website"><img src="https://image.flaticon.com/icons/svg/975/975645.svg" width=30px>...</a>
   </p>
 
