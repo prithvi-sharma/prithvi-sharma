@@ -6,7 +6,7 @@
 
 <hr>
 <p align="center">
-  <i><b>Let's connect and chat! Open to discuss anything under the sun.😊</b></i><br>
+  <i><b>An introvert who can discuss anything related to pc, so hit me up!</b></i><br>
     <a href="https://linkedin.com/in/prithvisharma/" alt="Linkedin"><img src="https://image.flaticon.com/icons/svg/1384/1384171.svg" width=30px>...</a>
     <a href="mailto:prithvigirishsharma@gmail.com" alt="Email"><img src="https://image.flaticon.com/icons/svg/871/871975.svg" width=35px>...</a>
     <a href="https://sites.google.com/view/prithvieportfolio" alt="Resume Website"><img src="https://image.flaticon.com/icons/svg/975/975645.svg" width=30px>...</a>
