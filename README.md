@@ -7,9 +7,11 @@
 <hr>
 <p align="center">
   <i><b>An introvert who can discuss anything related to pc, so hit me up!</b></i><br>
+    <a href="https://linkedin.com/in/prithvisharma/" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width=30px>...</a>
     <a href="https://linkedin.com/in/prithvisharma/" alt="Linkedin"><img src="https://image.flaticon.com/icons/svg/1384/1384171.svg" width=30px>...</a>
     <a href="mailto:prithvigirishsharma@gmail.com" alt="Email"><img src="https://image.flaticon.com/icons/svg/871/871975.svg" width=35px>...</a>
     <a href="https://sites.google.com/view/prithvieportfolio" alt="Resume Website"><img src="https://image.flaticon.com/icons/svg/975/975645.svg" width=30px>...</a>
   </p>
 
 <img src="https://github.com/prithvi-sharma/prithvi-sharma/blob/master/Comp-3-_1_.gif" width=100%>
+
