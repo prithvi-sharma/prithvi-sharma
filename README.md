@@ -12,5 +12,5 @@
     <a href="mailto:prithvigirishsharma@gmail.com" alt="Email"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png" width=29px>.....</a>
   </p>
 
-<img src="https://github.com/prithvi-sharma/prithvi-sharma/blob/master/Comp-3-_1_.gif" width=100%>
+<img src="downside.gif" width=100%>
 
