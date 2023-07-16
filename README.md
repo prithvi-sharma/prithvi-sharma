@@ -1,6 +1,6 @@
 <img src="https://github.com/prithvi-sharma/prithvi-sharma/blob/master/Comp-3.gif" width=100% alt="Hello">
 
-<h1 align="center"><strong>Welcome to my GitHub Account !!!!
+<h1 align="center"><strong>Welcome to my GitHub Profile !!!!
   </strong>
   </h1>
 
