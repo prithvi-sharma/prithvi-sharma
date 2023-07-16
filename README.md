@@ -1,4 +1,4 @@
-<img src="upside.gif" width=100% alt="Hello">
+<img src="Upside_Compressed.gif" width=100% alt="Hello">
 
 <h1 align="center"><strong>Welcome to my GitHub Profile !!!!
   </strong>
@@ -12,5 +12,5 @@
     <a href="mailto:prithvigirishsharma@gmail.com" alt="Email"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png" width=29px>.....</a>
   </p>
 
-<img src="downside.gif" width=100%>
+<img src="Downside_Compressed.gif" width=100%>
 
