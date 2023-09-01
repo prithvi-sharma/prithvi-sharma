@@ -9,7 +9,7 @@
 <hr>
   <p align="center">
     <i>
-      <b>A programmer who will discuss anything related to computer or books, so hit me up!</b><br>
+      <b>A programmer who will discuss anything about computer or books, so hit me up!</b><br>
     </i>
   <br>
     <a href="mailto:prithvigirishsharma@protonmail.com" alt="Proton"><img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" width=27px>.....</a>
