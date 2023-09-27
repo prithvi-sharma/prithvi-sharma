@@ -17,6 +17,6 @@
     <a href="https://prithvi-sharma.github.io" alt="Email"><img src="122933.png" width=25px>.....</a>
   </p>
 
-<a href="https://prithvi-sharma.github.io" alt="Hello">
+<a href="https://prithvi-sharma.github.io" alt="------------------------------------------------------------------------------------">
     <img src="Downside_Compressed.gif" width=100%>
 </a>
