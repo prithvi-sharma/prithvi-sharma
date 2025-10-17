@@ -12,7 +12,7 @@
       <b>A programmer who can discuss anything about computer or books, so hit me up!</b><br> 
     </i>
   <br>
-    <a href="mailto:prithvigirishsharma@protonmail.com" alt="Proton"><img src="https://cdn-icons-png.flaticon.com/128/324/324123.png" width=25px>.....</a>
+    <a href="mailto:prithvigirishsharma@protonmail.com" alt="Proton"><img src="https://cdn-icons-png.flaticon.com/128/324/324123.png" width=27px>.....</a>
     <a href="https://linkedin.com/in/prithvisharma/" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width=25px>.....</a>
     <a href="https://prithvi-sharma.github.io" alt="Email"><img src="https://cdn-icons-png.flaticon.com/512/282/282100.png" width=25px>.....</a>
       <!--
