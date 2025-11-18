@@ -12,7 +12,7 @@
       <b>A Computer Whisperer who loves talking about tech, so hit me up!</b><br> 
     </i>
   <br>
-    <a href="mailto:mail@prithvisharma.com" alt="Gmail"><img src="https://cdn-icons-png.flaticon.com/128/324/324123.png" width=29px>.....</a>
+    <a href="mailto:mail@prithvisharma.com" alt="Gmail"><img src="https://cdn-icons-png.flaticon.com/128/324/324123.png" width=28px>.....</a>
     <a href="https://linkedin.com/in/prithvisharma/" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width=25px>.....</a>
     <a href="https://www.PrithviSharma.com" alt="Email"><img src="https://cdn-icons-png.flaticon.com/128/942/942748.png" width=25px>.....</a>
       <!--
